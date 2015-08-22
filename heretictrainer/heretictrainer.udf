@@ -1,0 +1,50 @@
+<UserData Version="2.3.1.2">
+  <Properties>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.heretictrainer" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="android-20" />
+        <iOS_Target Value="heretictrainer iOS" />
+        <iOS_BundleID Value="" />
+        <Platform Value="None" />
+        <RunPlatform Value="None" />
+        <FrameworkVersion Value="cocos2d-x-3.7" />
+        <IsDebugKeystore Value="True" />
+        <KeystorePassword Value="" />
+        <KeystoreAliasName Value="" />
+        <KeystoreAliasPassword Value="" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Windows" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="LiveResultScene.csd" />
+          <FilePathData Path="loginLayer.csd" />
+          <FilePathData Path="StartLayer.csd" />
+          <FilePathData Path="livelist_categorylist.csd" />
+          <FilePathData Path="SettingScene.csd" />
+          <FilePathData Path="LiveDetails.csd" />
+          <FilePathData Path="sidebar.csd" />
+          <FilePathData Path="LocalScene.csd" />
+          <FilePathData Path="SearchLayer.csd" />
+          <FilePathData Path="LiveList_public.csd" />
+          <FilePathData Path="FavoriteLayer.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="livelist_categorylist.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>

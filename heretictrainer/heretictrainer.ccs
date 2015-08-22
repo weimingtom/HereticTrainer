@@ -1,0 +1,80 @@
+<Solution>
+  <PropertyGroup Name="heretictrainer" Version="2.3.1.2" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="LiveList.csd" Type="Scene" />
+        <Project Name="sidebar.csd" Type="Layer" />
+        <Image Name="common_sidebar_background.png" />
+        <Image Name="common_sidebar_icon_user.png" />
+        <Image Name="common_sidebar_icon_exit.png" />
+        <Image Name="common_sidebar__icon_about.png" />
+        <Image Name="common_sidebar__icon_setting.png" />
+        <Image Name="common_sidebar__icon_local.png" />
+        <Image Name="common_sidebar__icon_search.png" />
+        <Image Name="common_sidebar__icon_favorite.png" />
+        <Image Name="common_sidebar__icon_publiclist.png" />
+        <Image Name="common_sidebar__icon_categorylist.png" />
+        <Image Name="common_sidebar__button_backgound.png" />
+        <Image Name="common_background.png" />
+        <Project Name="LiveList_public.csd" Type="Layer" />
+        <Project Name="livelist_item.csd" Type="Node" />
+        <Image Name="common_livelist_icon_clickcount.png" />
+        <Image Name="common_livelist_icon_level.png" />
+        <Image Name="common_livelist_background.png" />
+        <Image Name="common_livelist_testpic.png" />
+        <Image Name="common_loading_backgound.png" />
+        <Image Name="common_loading_ring.png" />
+        <Project Name="livelist_categorylist.csd" Type="Layer" />
+        <Image Name="common_titlebar_menubutton.png" />
+        <Image Name="common_titlebar_sidebarbutton.png" />
+        <Project Name="aboutScene.csd" Type="Scene" />
+        <Image Name="common_appicon.png" />
+        <Image Name="common_titlebar_returnbutton.png" />
+        <Image Name="about_text.png" />
+        <Image Name="common_button_normal.png" />
+        <Image Name="common_button_pressed.png" />
+        <Image Name="common_textfield_background.png" />
+        <TTF Name="simhei.ttf" />
+        <Image Name="common_menu_background.png" />
+        <Image Name="common_menu_line.png" />
+        <Project Name="testScene.csd" Type="Scene" />
+        <Project Name="SettingScene.csd" Type="Scene" />
+        <Image Name="common_checkbox_background.png" />
+        <Image Name="common_checkbox_flag.png" />
+        <Image Name="common_slidebar_background.png" />
+        <Image Name="common_slidebar_button.png" />
+        <Image Name="common_slidebar_front.png" />
+        <Image Name="common_titlebar_background.png" />
+        <Project Name="startScene.csd" Type="Scene" />
+        <Image Name="common_background2.png" />
+        <Image Name="common_tip_background.png" />
+        <Image Name="loginScene_textfield_background.png" />
+        <Image Name="common_logo.png" />
+        <Image Name="common_logo2.png" />
+        <Project Name="loginLayer.csd" Type="Layer" />
+        <Image Name="common_button2_normal.png" />
+        <Image Name="common_button2_pressed.png" />
+        <Project Name="StartLayer.csd" Type="Layer" />
+        <Project Name="RegisterScene.csd" Type="Scene" />
+        <Project Name="LiveDetails.csd" Type="Scene" />
+        <Image Name="liveDetails_titleBackground.png" />
+        <Image Name="common_titlebar_refresh.png" />
+        <Image Name="common_icon_cannot_connert_server.png" />
+        <Project Name="LocalScene.csd" Type="Scene" />
+        <Project Name="FavoriteLayer.csd" Type="Layer" />
+        <Project Name="SearchLayer.csd" Type="Layer" />
+        <Image Name="common_loadingbar_block.png" />
+        <Image Name="common_loadingbar_background.png" />
+        <Project Name="LoadLiveScene.csd" Type="Scene" />
+        <Project Name="LiveResultScene.csd" Type="Scene" />
+        <Image Name="liveResult_background.png" />
+        <Image Name="liveResult_rank_background.png" />
+        <Project Name="PauseLiveScene.csd" Type="Scene" />
+        <Image Name="pauselivescece_background.png" />
+        <Image Name="button_pause.png" />
+        <Image Name="button_resume.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
